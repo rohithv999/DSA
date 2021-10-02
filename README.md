@@ -142,4 +142,4 @@ Rod Cutting
 Longest Alternating Subsequence Problem
 Coin change-making problem (unlimited supply of coins)
 Coin Change Problem — Find total number of ways to get the denomination of coins
-Find maximum profit earned from at most K stock transactions
+Find maximum profit earned from at most K stock transactionss
